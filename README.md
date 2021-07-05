@@ -16,7 +16,7 @@ La API expone los siguientes endpoints:
 
 
 <div align="center" style="margin-bottom:30px">
-  <img src="https://github.com/omairapalacios/photo-gallery-api/blob/main/uploads/captura.png" width="750" title="imagen de ejemplo">
+  <img src="https://github.com/omairapalacios/photo-gallery-api/blob/main/uploads/captura-readme.png" width="750" title="imagen de ejemplo">
 </div>
 
 
