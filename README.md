@@ -16,9 +16,7 @@ La API expone los siguientes endpoints:
 
 
 <div align="center" style="margin-bottom:30px">
-  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/hero.png" width="650" title="imagen 1">
-  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/main.png" width="650" title="imagen 2">
-  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/character.png" width="650" title="imagen 3">
+  <img src="https://github.com/omairapalacios/photo-gallery-api/blob/main/uploads/captura.png" width="750" title="imagen de ejemplo">
 </div>
 
 
