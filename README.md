@@ -14,3 +14,11 @@ La API expone los siguientes endpoints:
 * `PUT /photos/id`
 * `DELETE /photos/:id`
 
+
+<div align="center" style="margin-bottom:30px">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/hero.png" width="650" title="imagen 1">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/main.png" width="650" title="imagen 2">
+  <img src="https://github.com/omairapalacios/blizzard-diablo-game/blob/main/src/assets/img/character.png" width="650" title="imagen 3">
+</div>
+
+
