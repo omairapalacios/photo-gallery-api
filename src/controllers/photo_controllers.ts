@@ -21,7 +21,7 @@ export async function createPhoto(req: Request, res: Response): Promise<Response
   const newPhoto = {
     title,
     description,
-    path
+    image: path
   }
   const photo = new Photo(newPhoto);
   await photo.save();
@@ -34,7 +34,7 @@ export async function deletePhoto(req: Request, res: Response): Promise<Response
   const { id } = req.params
   const photo = await Photo.findByIdAndRemove(id);
   if (photo) {
-    fs.unlink(path.resolve(photo.path));
+    fs.unlink(path.resolve(photo.image));
   }
   return res.json({
     message: 'Photo Deleted',
